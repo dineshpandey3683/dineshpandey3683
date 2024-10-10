@@ -1,7 +1,23 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKAoWYCN06QFU7vD1_xpLgRhpn-BLGzSVUg&s)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        h1 {
+            width: 100%; /* Set desired width, adjust as needed */
+            text-align: center; /* Center the text */
+        }
+    </style>
+    <title>Dinesh Pandey's Profile</title>
+</head>
+<body>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKAoWYCN06QFU7vD1_xpLgRhpn-BLGzSVUg&s" alt="logo">
+
 <h1 align="center">Hi 👋, I'm Dinesh Pandey</h1>
 <h3 align="center">A passionate Cybersecurity Specialist | AI Enthusiast | IT Infrastructure Expert from USA</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshpandey3683&label=Profile%20views&color=0e75b6&style=flat" alt="dineshpandey3683" /> </p>
 
@@ -30,3 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshpandey3683&show_icons=true&locale=en" alt="dineshpandey3683" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshpandey3683&" alt="dineshpandey3683" /></p>
+
+</body>
+</html>
+
