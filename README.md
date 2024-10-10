@@ -1,8 +1,7 @@
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKAoWYCN06QFU7vD1_xpLgRhpn-BLGzSVUg&s)
 <h1 align="center">Hi 👋, I'm Dinesh Pandey</h1>
 <h3 align="center">A passionate Cybersecurity Specialist | AI Enthusiast | IT Infrastructure Expert from USA</h3>
-
-<img align=”right” alt=”coding” width=”400” src=”https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif”
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshpandey3683&label=Profile%20views&color=0e75b6&style=flat" alt="dineshpandey3683" /> </p>
 
