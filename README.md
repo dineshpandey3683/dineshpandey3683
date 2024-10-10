@@ -3,17 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        h1 {
-            width: 100%; /* Set desired width, adjust as needed */
-            text-align: center; /* Center the text */
-        }
-    </style>
-    <title>Dinesh Pandey's Profile</title>
+    <title>Increase Image Width Example</title>
 </head>
 <body>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKAoWYCN06QFU7vD1_xpLgRhpn-BLGzSVUg&s" alt="logo">
 
 <h1 align="center">Hi 👋, I'm Dinesh Pandey</h1>
 <h3 align="center">A passionate Cybersecurity Specialist | AI Enthusiast | IT Infrastructure Expert from USA</h3>
